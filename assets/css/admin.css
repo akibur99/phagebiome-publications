@@ -1,0 +1,8 @@
+/* Phagebiome Publications — admin screens only (enqueued on plugin screens). */
+.pbp-fields { display: grid; gap: 18px; max-width: 720px; }
+.pbp-field > label { display: block; font-weight: 600; margin-bottom: 6px; color: #1d2327; }
+.pbp-field .pbp-required { color: #b32d2e; font-weight: 700; }
+.pbp-field input[type="number"].small-text { width: 110px; }
+.pbp-field input[type="text"], .pbp-field input[type="url"], .pbp-field textarea { width: 100%; max-width: 560px; }
+.pbp-field .description { margin: 6px 0 0; color: #646970; }
+.pbp-order-status { display: inline-block; background: #f0f6fc; border: 1px solid #c3d4e5; color: #0B3D3A; border-radius: 4px; padding: 6px 10px; font-weight: 600; margin-bottom: 10px; }

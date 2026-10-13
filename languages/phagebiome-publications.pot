@@ -1,0 +1,71 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Phagebiome Publications 1.0.5\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Search title, journal, year…"
+msgstr ""
+
+msgid "No publications found."
+msgstr ""
+
+msgid "Reset"
+msgstr ""
+
+msgid "Publications"
+msgstr ""
+
+msgid "Publication"
+msgstr ""
+
+msgid "Showing %1$d of %2$d publications"
+msgstr ""
+
+msgid "(opens in new tab)"
+msgstr ""
+
+msgid "Open publication (opens in new tab): %s"
+msgstr ""
+
+msgid "All"
+msgstr ""
+
+msgid "Search publications"
+msgstr ""
+
+msgid "Filter by year"
+msgstr ""
+
+msgid "Enter publication title"
+msgstr ""
+
+msgid "Publication Year"
+msgstr ""
+
+msgid "Journal Name"
+msgstr ""
+
+msgid "Short Description"
+msgstr ""
+
+msgid "External Publication URL"
+msgstr ""
+
+msgid "Display Order"
+msgstr ""
+
+msgid "2026"
+msgstr ""
+
+msgid "e.g. Microbiology Spectrum"
+msgstr ""
+
+msgid "Enter a short description of this publication"
+msgstr ""
+
+msgid "https://doi.org/10.xxxx/example"
+msgstr ""
+
+msgid "Lower numbers appear first within the same year."
+msgstr ""
